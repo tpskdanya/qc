@@ -1,1 +1,36 @@
+{
+  "branchCode": "rnd",
+  "branchName": "Ростов",
 
+  "features": {
+    "season": true,
+    "mau": false,
+    "br": true
+  },
+
+  "coefficients": {
+    "season": 1.15,
+    "mau": 1.10,
+    "br": 1.20
+  },
+
+  "cities": {
+    "Ростов-на-Дону": {
+      "jse": 228,
+      "se": 266,
+      "sse": 321
+    },
+
+    "Таганрог": {
+      "jse": 220,
+      "se": 255,
+      "sse": 310
+    },
+
+    "Шахты": {
+      "jse": 215,
+      "se": 250,
+      "sse": 305
+    }
+  }
+}
